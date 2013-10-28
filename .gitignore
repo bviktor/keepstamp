@@ -1,0 +1,4 @@
+keepstamp/bin
+keepstamp/obj
+*.user
+*.suo
